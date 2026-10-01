@@ -1,2 +1,6 @@
 chmodO
 I am now learning remote Git operations.
+Basic Git workflow:
+commit changes
+push changes
+create a pull request
