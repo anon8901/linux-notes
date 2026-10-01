@@ -1,0 +1,10 @@
+ip 
+cidr
+internet gateway
+nacl
+security groups
+nat gateway
+subnet
+bastion host
+vpc
+ec2 
