@@ -8,3 +8,4 @@ subnet
 bastion host
 vpc
 ec2 
+route table
