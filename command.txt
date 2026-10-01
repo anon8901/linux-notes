@@ -6,3 +6,8 @@ cd
 cp
 mv 
 rm
+grep
+awk
+df
+free
+ps
